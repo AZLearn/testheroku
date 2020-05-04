@@ -1,1 +1,1 @@
-web: python manage.py && streamlit run covid_urlprod.py
+web: python manage.py && streamlit run slidebar.py
